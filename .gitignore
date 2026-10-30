@@ -1,0 +1,27 @@
+# Python environments
+venv/
+kali_env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Generated logs
+*.log
+demo_log.txt
+
+# Backup files
+*.save
+*.bak
+
+# Local IDE settings
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Standalone keyboard monitoring
+src/monitor.py
+src/monitor/
